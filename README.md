@@ -1,4 +1,4 @@
-# 🛠💥🛠 Automating and shortcutting dev resource 🛠💥🛠
+# 🛠💥🛠 Automation for Dev's 🛠💥🛠
 
 A place for developers to use and contribute ways to help them in their daily dev life. 
 
