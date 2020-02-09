@@ -2,7 +2,7 @@
 
 A place for developers to use and contribute ways to help them in their daily dev life. 
 
-As per my post, to start this off, I will be documenting when and where I can automate work and provide shortcuts to make daily dev life just that little bit easier so that I/we can focus on the things that really matter.
+As per my [post](https://www.danielvanc.com/notes/automating-my-dev-life-starts-from-now), to start this off, I will be documenting when and where I can automate work and provide shortcuts to make daily dev life just that little bit easier so that I/we can focus on the things that really matter.
 
 ## How this will work
 1. New issue for each problem that could be solved with automation/shortcut
